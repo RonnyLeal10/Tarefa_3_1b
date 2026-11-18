@@ -163,6 +163,16 @@ const routes = [
     name: "listaEspecialistas",
     component: () => import("@/views/Tarefa_b/especialistas/expert.vue")
   },
+  {
+  path: "/especialistas/add",
+  name: "addEspecialista",
+  component: () => import("@/views/Tarefa_b/especialistas/AddEspe.vue")
+},
+{
+  path: "/especialistas/:id/edit",
+  name: "editEspecialista",
+  component: () => import("@/views/Tarefa_b/especialistas/editEspe.vue")
+},
 
   //
 
