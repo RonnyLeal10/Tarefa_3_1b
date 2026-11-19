@@ -194,14 +194,6 @@ Para permitir que o professor utilize simplesmente `npm start`, o script `start`
 }
 ```
 
-Depois de guardar essa alteração, o comando de arranque será:
-
-```powershell
-npm start
-```
-
-A correção deverá ser incluída no GitHub juntamente com o `package.json` e o `package-lock.json`.
-
 ### 6.5. Atenção às portas
 
 O frontend e o backend não podem utilizar a mesma porta no mesmo computador.
