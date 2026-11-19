@@ -1,4 +1,4 @@
-<img width="1388" height="1990" alt="Diagrama de comunicação" src="https://github.com/user-attachments/assets/295e52b4-f838-40f2-8aaa-dc5effeda01f" /># Tarefa 3.1 b) — Animalec: Gestão de Patrocinadores e Especialistas
+# Tarefa 3.1 b) — Animalec: Gestão de Patrocinadores e Especialistas
 
 ## 1. Enquadramento
 
@@ -227,8 +227,10 @@ app.use('/sponsors', require('../Tarefa_b/routes/sponsor.routes'));
 ```
 
 Para disponibilizar os especialistas através de `/experts`, será necessário confirmar a existência do ficheiro de rotas correspondente e registá-lo na configuração do Express.
+### 7.3 Diagrama de funcionamento
+img width="1388" height="1990" alt="Diagrama de comunicação" src="https://github.com/user-attachments/assets/295e52b4-f838-40f2-8aaa-dc5effeda01f" /
 
-### 7.3. Compatibilidade
+### 7.4. Compatibilidade
 
 Durante o desenvolvimento, foram identificadas incompatibilidades entre algumas dependências antigas do backend e o Node.js 26.
 
