@@ -1,4 +1,4 @@
-# Tarefa 3.1 b) — Animalec: Gestão de Patrocinadores e Especialistas
+<img width="1388" height="1990" alt="Diagrama de comunicação" src="https://github.com/user-attachments/assets/295e52b4-f838-40f2-8aaa-dc5effeda01f" /># Tarefa 3.1 b) — Animalec: Gestão de Patrocinadores e Especialistas
 
 ## 1. Enquadramento
 
