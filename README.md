@@ -251,7 +251,7 @@ Esta solução deve ser validada através de testes às funcionalidades, especia
 | Compatibilidade da autenticação | Pendente de teste |
 
 
-## 10. Referências
+## 9. Referências
 
 Portela, F., & Queirós, R. (2020). *Desenvolvimento avançado para a Web: Do front-end ao back-end*. FCA.
 
